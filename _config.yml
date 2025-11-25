@@ -1,6 +1,7 @@
 title: "Daisy Chebet"
 description: "Data Science & Machine Learning Portfolio"
-theme: jekyll-theme-modernist
+remote_theme: cotes2020/jekyll-theme-chirpy
+
 
 
 
