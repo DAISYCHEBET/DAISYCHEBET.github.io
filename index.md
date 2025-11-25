@@ -1,4 +1,5 @@
-<img src="profile.jpg" alt="Daisy Chebet" width="150" style="border-radius: 50%;">
+<img src="/profile.jpg" alt="Daisy Chebet" width="150" style="border-radius: 50%;">
+
 
 # Daisy Chebet  
 ### Data Science & Machine Learning Portfolio  
