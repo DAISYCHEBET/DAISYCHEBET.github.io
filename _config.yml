@@ -1,7 +1,11 @@
 title: "Daisy Chebet"
 description: "Data Science & Machine Learning Portfolio"
-remote_theme: cotes2020/jekyll-theme-chirpy
 
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
 
+markdown: kramdown
 
-
+# Optional settings
+minimal_mistakes_skin: "air"   # clean light theme (you can try "default", "contrast", "neon", "plum")
