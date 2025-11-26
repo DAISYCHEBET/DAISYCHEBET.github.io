@@ -1,5 +1,12 @@
-<img src="/profile.jpg" alt="Daisy Chebet" width="150" style="border-radius: 50%;">
+ ---
+title: "Daisy Chebet"
+description: "Machine Learning & Data Science Portfolio"
+layout: default
+---
 
+<p align="center">
+  <img src="/prof.jpg" alt="Daisy Chebet" width="150" style="border-radius: 50%;">
+</p>
 
 # Daisy Chebet  
 ### Data Science & Machine Learning Portfolio  
